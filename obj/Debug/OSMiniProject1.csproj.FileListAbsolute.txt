@@ -1,0 +1,24 @@
+c:\users\passe\onedrive\documents\visual studio 2012\Projects\OSMiniProject1\OSMiniProject1\bin\Debug\OSMiniProject1.exe
+c:\users\passe\onedrive\documents\visual studio 2012\Projects\OSMiniProject1\OSMiniProject1\bin\Debug\OSMiniProject1.pdb
+c:\users\passe\onedrive\documents\visual studio 2012\Projects\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.csprojResolveAssemblyReference.cache
+c:\users\passe\onedrive\documents\visual studio 2012\Projects\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.Properties.Resources.resources
+c:\users\passe\onedrive\documents\visual studio 2012\Projects\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.csproj.GenerateResource.Cache
+c:\users\passe\onedrive\documents\visual studio 2012\Projects\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.exe
+c:\users\passe\onedrive\documents\visual studio 2012\Projects\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.pdb
+c:\users\passe\onedrive\documents\visual studio 2012\Projects\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.Form1.resources
+C:\Users\Khaled\Desktop\OSProject\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.exe
+C:\Users\Khaled\Desktop\OSProject\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.pdb
+C:\Users\Khaled\Desktop\OSProject\OSMiniProject1\OSMiniProject1\bin\Debug\OSMiniProject1.exe
+C:\Users\Khaled\Desktop\OSProject\OSMiniProject1\OSMiniProject1\bin\Debug\OSMiniProject1.pdb
+C:\Users\Khaled\Desktop\OSProject\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\Desktop\OSProject\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.Form1.resources
+C:\Users\Khaled\Desktop\OSProject\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.Properties.Resources.resources
+C:\Users\Khaled\Desktop\OSProject\OSMiniProject1\OSMiniProject1\obj\Debug\OSMiniProject1.csproj.GenerateResource.Cache
+C:\Users\passe\OneDrive\Documents\Visual Studio 2012\Projects\OSMiniProject1\obj\Debug\OSMiniProject1.exe
+C:\Users\passe\OneDrive\Documents\Visual Studio 2012\Projects\OSMiniProject1\obj\Debug\OSMiniProject1.pdb
+C:\Users\passe\OneDrive\Documents\Visual Studio 2012\Projects\OSMiniProject1\bin\Debug\OSMiniProject1.exe
+C:\Users\passe\OneDrive\Documents\Visual Studio 2012\Projects\OSMiniProject1\bin\Debug\OSMiniProject1.pdb
+C:\Users\passe\OneDrive\Documents\Visual Studio 2012\Projects\OSMiniProject1\obj\Debug\OSMiniProject1.csprojResolveAssemblyReference.cache
+C:\Users\passe\OneDrive\Documents\Visual Studio 2012\Projects\OSMiniProject1\obj\Debug\OSMiniProject1.Form1.resources
+C:\Users\passe\OneDrive\Documents\Visual Studio 2012\Projects\OSMiniProject1\obj\Debug\OSMiniProject1.Properties.Resources.resources
+C:\Users\passe\OneDrive\Documents\Visual Studio 2012\Projects\OSMiniProject1\obj\Debug\OSMiniProject1.csproj.GenerateResource.Cache
